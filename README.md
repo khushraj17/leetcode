@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushraj17/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushraj17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/khushraj17/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/khushraj17/leetcode/tree/master/0189-rotate-array) |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khushraj17/leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushraj17/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
